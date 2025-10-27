@@ -1,12 +1,12 @@
-# 🌸 Iris Flower Classification
+#  Iris Flower Classification
 
-## 🎯 Objective
+##  Objective
 Classify iris flowers into three species (**Setosa**, **Versicolor**, **Virginica**) based on petal and sepal measurements.
 
-## 🧩 Dataset
+##  Dataset
 The Iris dataset from scikit-learn (`sklearn.datasets.load_iris`).
 
-## 🧠 Steps
+##  Steps
 1. Load dataset
 2. Visualize features
 3. Split into training/test sets
@@ -14,12 +14,12 @@ The Iris dataset from scikit-learn (`sklearn.datasets.load_iris`).
 5. Train KNN classifier
 6. Evaluate and save results
 
-## 📊 Output Files
+##  Output Files
 - `outputs/figures/iris_pairplot.png`
 - `outputs/results/evaluation.txt`
 - `outputs/models/iris_knn_model.pkl`
 
-## ⚙️ How to Run
+##  How to Run
 ```bash
 pip install -r requirements.txt
 cd src
